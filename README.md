@@ -1,25 +1,33 @@
 # 💫 About Me:
-🔭 I’m currently working on KafkaAttributesLib <br>
-🤝 I’m looking for help with my improvement <br>
-🌱 I’m currently learning Vue.Js <br>
-
+🔭 I’m currently working on KafkaAttributesLib<br/>
+🤝 I’m looking for help with my improvement<br/>
+🌱 I’m currently learning Vue.Js<br/>
+![Lofi](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)<br/>
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Backend](https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&lineCount=1&theme=tokyonight&line1=dotnet%2C.NET%2C512BD4%3Bpython%2CPYTHON%2C3776AB%3Bcplusplus%2CC%2B%2B%2C00599C%3BJAVA%2CJAVA%2Cffffff%3B)<br/>
+![Frontend](https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&lineCount=1&theme=tokyonight&line1=javascript%2CJS%2CF7DF1E%3Bvuedotjs%2CVue.js%2C4FC08D%3Bblazor%2CBlazor%2C512BD4%3Bhtml5%2CHTML%2CE34F26%3Bcss3%2CCSS%2C1572B6%3B)<br/>
+![DevOps](https://github-readme-tech-stack.vercel.app/api/cards?title=DevOps&lineCount=1&theme=tokyonight&line1=nginx%2CNGINX%2C009639%3Bdocker%2CDocker%2C2496ED%3Bkubernetes%2CKubernetes%2C326CE5%3B)<br/>
+![Database](https://github-readme-tech-stack.vercel.app/api/cards?title=Database&lineCount=1&theme=tokyonight&line1=postgresql%2Cpostgresql%2C4169E1%3Bmariadb%2Cmariadb%2C003545%3Bmysql%2Cmysql%2C4479A1%3B)<br/>
+![Tools](https://github-readme-tech-stack.vercel.app/api/cards?title=Tools&lineCount=4&theme=tokyonight&line1=nginxproxymanager%2CNPM%2CF15833%3Bportainer%2Cportainer%2C13BEF9%3Bcloudflare%2Ccloudflare%2CF38020%3Bgit%2Cgit%2CF05032%3B&line2=elastic%2Celastic%2C005571%3Bredis%2Credis%2CFF4438%3Bcaddy%2Ccaddy%2C1F88C0%3Bminio%2Cminio%2CC72E49%3B&line3=figma%2Cfigma%2CF24E1E%3Bgitea%2Cgitea%2C609926%3Bpostman%2Cpostman%2CFF6C37%3Bopensearch%2Copensearch%2C005EB8%3B&line4=swagger%2Cswagger%2C85EA2D%3Binsomnia%2Cinsomnia%2C4000BF%3Btermius%2Ctermius%2C000000%3B)<br/>
+![Ishtar](https://media1.tenor.com/m/jLlLjN5ZlJUAAAAd/fate-grand-order-babylonia-ishtar.gif)<br/>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Er3shk1gal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Er3shk1gal&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Er3shk1gal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Er3shk1gal&theme=tokyonight)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Er3shk1gal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Er3shk1gal&theme=tokyonight&exclude=)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Er3shk1gal&theme=tokyonight&exclude=)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Er3shk1gal&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Er3shk1gal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://media1.tenor.com/m/gKgsJGgyAFcAAAAd/fate-grand-order-babylonia-ereshkigal.gif)<br/>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Er3shk1gal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Er3shk1gal&theme=radical&no-frame=true&no-bg=true&margin-w=4)<br/>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)<br/>
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Er3shk1gal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Er3shk1gal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)<br/>
+![](https://media1.tenor.com/m/nSVlWnDEsmAAAAAd/ereshkigal-fate.gif)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Er3shk1gal&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Er3shk1gal&icon=0&color=0)](https://visitcount.itsvg.in)</br>
+![](https://media1.tenor.com/m/G_qdw_lTlOUAAAAd/shees.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
