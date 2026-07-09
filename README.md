@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Autumn library<br/>
 🤝 I’m looking for help with my improvement<br/>
-🌱 I’m currently learning Vue.Js<br/>
 ![Lofi](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)<br/>
 # 💻 Tech Stack:
 ![Backend](https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&lineCount=1&theme=tokyonight&line1=dotnet%2C.NET%2C512BD4%3Bpython%2CPYTHON%2C3776AB%3Bcplusplus%2CC%2B%2B%2C00599C%3BJAVA%2CJAVA%2Cffffff%3B)<br/>
