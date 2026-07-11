@@ -22,6 +22,5 @@
 ![](https://media1.tenor.com/m/nSVlWnDEsmAAAAAd/ereshkigal-fate.gif)
 
 ---
-![](https://komarev.com/ghpvc/?username=Er3shk1gal&label=Profile%20views&color=1a1b27&style=flat)</br>
 ![](https://media1.tenor.com/m/G_qdw_lTlOUAAAAd/shees.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
